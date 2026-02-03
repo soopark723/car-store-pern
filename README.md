@@ -21,5 +21,8 @@ A full-stack car catalog application built with the PERN stack.
 - `03_postgresql` – Database + Drizzle ORM
 - `04_reactjs` – Frontend
 
+## Screenshots
+![Car Catalog](screenshots/home.png)
+
 ## Notes
 This project represents a buyer-facing storefront. Inventory management is handled via backend APIs and not exposed in the public UI.
